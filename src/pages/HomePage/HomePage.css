@@ -1,0 +1,62 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.header {
+  text-align: left;
+  color: rgb(60, 116, 236);
+}
+
+.background-container {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif, cursive;
+  font-size: 25px;
+  color: rgb(245, 244, 241);
+  padding-top: 5px;
+  padding-left: 50px;
+  padding-right: 50px;
+  height: 100%;
+  background-image: url(Untitled-design-5.png);
+  background-repeat: no-repeat;
+}
+
+.description {
+  text-align: center;
+  font-size: 50px;
+  padding-left: 340px;
+  padding-right: 340px;
+  color: rgb(0, 0, 0);
+}
+
+.tell-me-more {
+  top: -10px;
+  left: 43.677777777777777777777%;
+}
+
+.expansion-button {
+  color: gold;
+}
+
+.about {
+  text-decoration: none;
+  border: blue;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: rgb(0, 0, 0);
+  background-color: rgba(240, 248, 255, 0);
+  font-size: 20px;
+  position: relative;
+  left: 1000px;
+  top: -75px;
+}
+
+.login-button {
+  left: 1020px;
+  top: -75px;
+}
+
+.sign-up-button {
+  left: 1040px;
+  top: -75px;
+}
